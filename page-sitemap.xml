@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://cheng321284/.github.io/about/</loc>
+        <lastmod>2019-07-15T11:59:44.585Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://cheng321284/.github.io/tags/</loc>
         <lastmod>2019-07-15T10:46:17.334Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>https://cheng321284/.github.io/archive/</loc>
         <lastmod>2019-07-15T10:46:17.194Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://cheng321284/.github.io/about/</loc>
-        <lastmod>2019-07-15T10:46:17.193Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
